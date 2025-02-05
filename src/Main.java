@@ -5,6 +5,10 @@
 public class Main {
     public static void main(String[] args) {
 
+        System.out.println("Hello WOrld1");
+        System.out.println("Hello WOrld2");
+        System.out.println("Hello WOrld3");
+
         System.out.println("Hello and welcome!");
         System.out.println("Hello and welcome1");
         System.out.println("Hello and welcome2");
